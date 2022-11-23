@@ -12,3 +12,5 @@ nltk,
 tensorflow,
 re,
 pickle.
+
+Note:- This repo dosent contain model file(.h5) , CSV file and pickle file. Only Script File is available.
