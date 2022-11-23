@@ -6,9 +6,9 @@ The Model has been trained on the English-Hindi parallel corpus provided by IIT 
 
 Requirements
 
-pandas
-numpy
-nltk
-tensorflow
-re
-pickle
+pandas,
+numpy,
+nltk,
+tensorflow,
+re,
+pickle.
